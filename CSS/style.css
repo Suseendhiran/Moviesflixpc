@@ -76,8 +76,8 @@ header a:hover {
 
 }
 #showcase{
-	min-height: 501px;
-	background:url(../image/av4.jpg) no-repeat 0 -50px;
+	min-height: 550px;
+	background:url(../image/av4.jpg) no-repeat 0 -100px;
 	background-size: 100%;
 	text-align: center;
 }
